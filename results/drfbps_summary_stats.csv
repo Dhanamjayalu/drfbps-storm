@@ -1,0 +1,5 @@
+,riskScore,riskScore,riskScore,age,heartRate,sysBP,ldl
+,mean,min,max,mean,mean,mean,mean
+risk,,,,,,,
+HIGH RISK,255.84,211,334,53.78,115.58,127.89,181.46
+LOW RISK,197.36,161,210,47.07,72.57,121.28,167.11
